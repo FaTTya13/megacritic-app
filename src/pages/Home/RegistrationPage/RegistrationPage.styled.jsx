@@ -1,0 +1,14 @@
+import styled from "styled-components";
+
+const Container = styled.div`
+    border: 1px solid lightgray;
+    width: 470px;
+    margin : 50px auto;
+    padding: 20px;
+`;
+
+const RegistrationPageStyled = {
+    Container,
+};
+  
+export default RegistrationPageStyled;
